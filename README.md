@@ -4,6 +4,6 @@ Auto Report Facebook Account
 Code : Secret
 
 # FOSITIF THINKING
-Jangan Banyak Tanya
+Muhammad Salaih Zubair
 
 <Img src="Stock/Report.png">
