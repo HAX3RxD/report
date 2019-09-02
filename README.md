@@ -1,6 +1,4 @@
-# report
 Auto Report Facebook Account
-# Report
 Code : Secret
 
 # FOSITIF THINKING
