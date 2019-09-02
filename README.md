@@ -4,4 +4,4 @@ Code : Secret
 # POSITION THINKING
 Muhammad Salaih Zubair
 
-<Img src="Stock/Report.png">
+<Img src="/Report.png">
