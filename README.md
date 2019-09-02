@@ -1,7 +1,7 @@
 Auto Report Facebook Account
 Code : Secret
 
-# FOSITIF THINKING
+# POSITION THINKING
 Muhammad Salaih Zubair
 
 <Img src="Stock/Report.png">
