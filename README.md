@@ -1,7 +1,7 @@
-Auto Report Facebook Account
-Code : Secret
+Ba auto reporte pe dakawet
+Codaka:secret
 
-# POSITION THINKING
-Muhammad Salaih Zubair
+# 
+AHMAD ABDULSAMAD ABDULLA
 
-<Img src="/Report.png">
+<Img src="/REPORTKRDN.png">
